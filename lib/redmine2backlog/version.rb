@@ -1,3 +1,3 @@
-module Redmine2backlog
+class Redmine2backlog
   VERSION = "0.1.0"
 end
